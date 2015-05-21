@@ -154,8 +154,9 @@ public class SimpleApiExample {
         cmdOptions.addOption(spaceIdOption);
 
         Option contentPathOption =
-           new Option("c", "content", true, "full path to content file");
-        contentPathOption.setRequired(false);
+           new Option("c", "content", true,
+                      "full path to a local file which will be copied in DuraCloud");
+        contentPathOption.setRequired(true);
         cmdOptions.addOption(contentPathOption);
 
         CommandLine cmd = null;
