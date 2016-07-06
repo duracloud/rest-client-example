@@ -5,7 +5,7 @@ The purpose of this project is to provide a simple example for interacting with 
 # Requirements
 
 The following tools will be required:
-* Java SDK - either Java 7 or Java 8 will work
+* Java SDK - Java 8 or above
 * Maven - this code has been tested with version 3.2.5
 * Git - to pull down the code (or just download the zip)
 * A DuraCloud account

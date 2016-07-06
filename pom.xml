@@ -6,7 +6,7 @@
   <groupId>org.test</groupId>
   <artifactId>simpleapiexample</artifactId>
   <packaging>jar</packaging>
-  <version>1.0</version>
+  <version>1.0.1</version>
   <name>Simple API Example</name>
 
   <repositories>
@@ -68,13 +68,13 @@
     <dependency>
       <groupId>org.duracloud</groupId>
       <artifactId>common</artifactId>
-      <version>3.2.3</version>
+      <version>4.0.0</version>
     </dependency>
 
     <dependency>
       <groupId>org.duracloud</groupId>
       <artifactId>storeclient</artifactId>
-      <version>3.2.3</version>
+      <version>4.0.0</version>
     </dependency>
 
     <dependency>
