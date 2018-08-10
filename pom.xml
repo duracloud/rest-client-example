@@ -68,13 +68,13 @@
     <dependency>
       <groupId>org.duracloud</groupId>
       <artifactId>common</artifactId>
-      <version>4.0.0</version>
+      <version>4.4.6</version>
     </dependency>
 
     <dependency>
       <groupId>org.duracloud</groupId>
       <artifactId>storeclient</artifactId>
-      <version>4.0.0</version>
+      <version>4.4.6</version>
     </dependency>
 
     <dependency>
